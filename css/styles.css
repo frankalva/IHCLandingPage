@@ -477,16 +477,5 @@ header nav li:last-child {
 	color: #555;
     border: solid;
 }
-.contacto form input.message{
-    
-    padding: 15px;
-	flex: 1;
-    margin-bottom: 10px;
-    width: 45cm;
-    height: 5cm;
-    
-	font-size: 18px;
-	color: #555;
-    border: solid;
-}
+
 
