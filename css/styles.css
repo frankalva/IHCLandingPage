@@ -444,38 +444,3 @@ header nav li:last-child {
     }
 }
 
-/*
-.contacto form input.name{
-    
-	flex: 1;
-    padding: 15px;
-	margin-right: 5px;
-    margin-bottom: 10px;
-    width: 28cm;
-    height: 2cm;
-	font-size: 18px;
-	color: #555;
-    border: solid;
-}
-.contacto form input.nro{
-    padding: 15px;
-	flex: 1;
-    width: 16.650cm;
-    margin-bottom: 10px;
-    height: 2cm;
-    font-size: 18px;
-	color: #555;
-    border: solid;
-}
-.contacto form input.correo{
-    padding: 15px;
-	flex: 1;
-    margin-bottom: 10px;
-    width: 45cm;
-    height: 2cm;
-	font-size: 18px;
-	color: #555;
-    border: solid;
-}
-
-
