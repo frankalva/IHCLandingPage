@@ -489,25 +489,4 @@ header nav li:last-child {
 	color: #555;
     border: solid;
 }
-.contacto form p{
-    font-size: 21px;
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: justify;
-    margin: 10px 20px;
-    padding:5px;
-}
-.contacto form button{
-   
-    position: relative;
-    padding: 16px 32px;
-    text-align: center;
-    width: 10cm;
-    font-size: 16px;
-    transition-duration: 0.4s;
-    z-index: 2;
-    top : 55px;
-    left: 1320px;
-    cursor: pointer;
-}
-*/
+
